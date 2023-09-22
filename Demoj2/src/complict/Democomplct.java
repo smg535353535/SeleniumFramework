@@ -13,3 +13,5 @@ public class Democomplct {
 
  // 1 complict
 //2 pull
+
+  // 3 push
