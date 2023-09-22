@@ -7,3 +7,5 @@ public class Democomplct {
 		 System.out.println("be strong");
 	}
 }
+
+//2 push
