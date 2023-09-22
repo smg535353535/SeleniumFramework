@@ -11,3 +11,5 @@ public class DemoA {
 //sagar
 //push
 //2 push
+
+//3 Push
