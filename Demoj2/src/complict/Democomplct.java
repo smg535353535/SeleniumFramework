@@ -9,3 +9,4 @@ public class Democomplct {
 }
 
 //2 push
+// 1 pull
